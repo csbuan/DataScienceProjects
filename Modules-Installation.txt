@@ -1,0 +1,23 @@
+Data Science modules Installation
+
+pip install pandas
+pip install numpy
+pip install matplotlib
+pip install seaborn
+pip install scikit-learn
+pip install scipy
+
+
+
+
+
+Others:
+pip install beautifulsoup4 lxml
+pip install gekko
+pip install keras
+pip install opencv-python
+pip install plotly
+pip install torch
+pip install seaborn
+pip install tensorflow
+pip install xgboost
