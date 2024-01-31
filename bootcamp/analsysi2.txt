@@ -1,0 +1,8 @@
+[' SKU no. ', ' Discount Band ', 'Units Sold', ' Manufacturing Price ', ' Sale Price ', ' Gross Sales ', ' Discounts ', '  Net Sales ',
+       ' COGS ', ' Profit ', 'Date']
+
+264653
+2a9d8f
+e9c46a
+f4a261
+e76f51
